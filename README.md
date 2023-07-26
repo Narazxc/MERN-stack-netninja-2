@@ -15,6 +15,5 @@ All course files for the MERN Stack Tutorial course on the Net Ninja YouTube cha
 2. connect to db
 3. add in necessary middlewares (logger, json parser etc.)
 4. create router
-5. connect to db
-6. define schema & create model using the schema to manage collection/table via mongoose
-7. create controller
+5. define schema & create model using the schema to manage collection/table via mongoose
+6. create controller
